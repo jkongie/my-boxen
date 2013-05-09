@@ -72,6 +72,7 @@ node default {
   # applications
   include chrome
   include dropbox
+
   # common, useful packages
   package {
     [
