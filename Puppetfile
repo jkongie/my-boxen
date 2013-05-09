@@ -32,6 +32,9 @@ github "stdlib",     "4.0.2", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "chrome",     "1.1.0"
 github "dropbox",    "1.1.0"
+github "propane",    "1.0.0"
+github "skype",      "1.0.0"
+github "alfred",     "1.0.2"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

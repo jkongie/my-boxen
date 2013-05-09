@@ -72,6 +72,10 @@ node default {
   # applications
   include chrome
   include dropbox
+  include propane
+  include skype
+  include alfred
+
 
   # common, useful packages
   package {
