@@ -35,6 +35,9 @@ github "dropbox",    "1.1.0"
 github "propane",    "1.0.0"
 github "skype",      "1.0.0"
 github "alfred",     "1.0.2"
+github "onepassword","1.0.0"
+github "bash",       "1.1.0"
+github "gitx",       "1.2.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

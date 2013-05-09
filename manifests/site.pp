@@ -75,7 +75,13 @@ node default {
   include propane
   include skype
   include alfred
+  include onepassword
 
+  # command line
+  include bash::completion
+
+  # development
+  include gitx::dev
 
   # common, useful packages
   package {
