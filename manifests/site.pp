@@ -70,8 +70,8 @@ node default {
   include ruby::2_0_0
 
   # applications
-  include chrome
-  include dropbox
+  # include chrome
+  # include dropbox
 
   # common, useful packages
   package {
