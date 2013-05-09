@@ -76,6 +76,7 @@ node default {
   include skype
   include alfred
   include onepassword
+  include vlc
 
   # command line
   include bash::completion

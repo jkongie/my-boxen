@@ -38,6 +38,7 @@ github "alfred",     "1.0.2"
 github "onepassword","1.0.0"
 github "bash",       "1.1.0"
 github "gitx",       "1.2.0"
+github "vlc",        "1.0.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
