@@ -79,6 +79,7 @@ node default {
   include vlc
   include adium
   include divvy
+  include spotify
 
   # command line
   include bash::completion

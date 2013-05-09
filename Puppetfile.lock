@@ -99,6 +99,11 @@ GITHUBTARBALL
     skype (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-spotify
+  specs:
+    spotify (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
@@ -140,6 +145,7 @@ DEPENDENCIES
   repository (= 2.0.2)
   ruby (= 4.1.0)
   skype (= 1.0.0)
+  spotify (= 1.0.0)
   stdlib (= 4.0.2)
   sudo (= 1.0.0)
   vlc (= 1.0.1)
