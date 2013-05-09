@@ -80,6 +80,7 @@ node default {
   include adium
   include divvy
   include spotify
+  include astrill
 
   # command line
   include bash::completion
