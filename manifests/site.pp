@@ -77,6 +77,7 @@ node default {
   include alfred
   include onepassword
   include vlc
+  include adium
 
   # command line
   include bash::completion
