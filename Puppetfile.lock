@@ -121,7 +121,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: jkongie/puppet-astrill
   specs:
-    astrill (0.1.2)
+    astrill (0.1.4)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-stdlib
@@ -131,7 +131,7 @@ GITHUBTARBALL
 DEPENDENCIES
   adium (= 1.1.1)
   alfred (= 1.0.2)
-  astrill (= 0.1.2)
+  astrill (= 0.1.4)
   bash (= 1.1.0)
   boxen (= 2.1.0)
   chrome (= 1.1.0)
