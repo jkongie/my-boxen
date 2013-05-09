@@ -42,6 +42,7 @@ github "vlc",        "1.0.1"
 github "adium",      "1.1.1"
 github "divvy",      "1.0.1"
 github "spotify",    "1.0.0"
+github "colloquy",    "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
