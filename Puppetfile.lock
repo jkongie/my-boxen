@@ -4,6 +4,11 @@ GITHUBTARBALL
     alfred (1.0.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-bash
+  specs:
+    bash (1.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (2.1.0)
@@ -34,6 +39,11 @@ GITHUBTARBALL
     git (1.2.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-gitx
+  specs:
+    gitx (1.2.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-homebrew
   specs:
     homebrew (1.1.2)
@@ -52,6 +62,11 @@ GITHUBTARBALL
   remote: boxen/puppet-nodejs
   specs:
     nodejs (2.2.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-onepassword
+  specs:
+    onepassword (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-propane
@@ -90,17 +105,20 @@ GITHUBTARBALL
 
 DEPENDENCIES
   alfred (= 1.0.2)
+  bash (= 1.1.0)
   boxen (= 2.1.0)
   chrome (= 1.1.0)
   dnsmasq (= 1.0.0)
   dropbox (= 1.1.0)
   gcc (= 1.0.0)
   git (= 1.2.2)
+  gitx (= 1.2.0)
   homebrew (= 1.1.2)
   hub (= 1.0.0)
   inifile (= 0.9.0)
   nginx (= 1.4.0)
   nodejs (= 2.2.0)
+  onepassword (= 1.0.0)
   propane (= 1.0.0)
   repository (= 2.0.2)
   ruby (= 4.1.0)
