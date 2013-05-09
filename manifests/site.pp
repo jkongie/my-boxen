@@ -78,6 +78,7 @@ node default {
   include onepassword
   include vlc
   include adium
+  include divvy
 
   # command line
   include bash::completion

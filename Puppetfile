@@ -40,6 +40,7 @@ github "bash",       "1.1.0"
 github "gitx",       "1.2.0"
 github "vlc",        "1.0.1"
 github "adium",      "1.1.1"
+github "divvy",      "1.0.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
