@@ -69,10 +69,6 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
-  # applications
-  # include chrome
-  # include dropbox
-
   # common, useful packages
   package {
     [
