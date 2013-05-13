@@ -30,6 +30,9 @@ github "nodejs",     "2.2.0"
 github "ruby",       "4.1.0"
 github "stdlib",     "4.0.2", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
+github "osx",        "1.1.0"
+
+# Apps
 github "chrome",     "1.1.0"
 github "dropbox",    "1.1.0"
 github "propane",    "1.0.0"
@@ -43,6 +46,7 @@ github "adium",      "1.1.1"
 github "divvy",      "1.0.1"
 github "spotify",    "1.0.0"
 github "astrill",    "0.1.4", :repo => "jkongie/puppet-astrill"
+
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
