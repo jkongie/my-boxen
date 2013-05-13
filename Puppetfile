@@ -46,6 +46,7 @@ github "adium",      "1.1.1"
 github "divvy",      "1.0.1"
 github "spotify",    "1.0.0"
 github "astrill",    "0.1.4", :repo => "jkongie/puppet-astrill"
+github "sublime_text_2", "1.1.0"
 
 
 # Optional/custom modules. There are tons available at

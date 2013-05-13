@@ -81,6 +81,7 @@ node default {
   include divvy
   include spotify
   include astrill
+  include sublime_text_2
 
   # OSX config
   include osx::dock::autohide
