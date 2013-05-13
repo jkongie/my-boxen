@@ -64,6 +64,10 @@ node default {
   include nodejs::v0_8
   include nodejs::v0_10
 
+  class { 'nodejs::global':
+    version => 'v0.10'
+  }
+
   # default ruby versions
   include ruby::1_8_7
   include ruby::1_9_3
@@ -74,38 +78,9 @@ node default {
   include dropbox
   include propane
   include skype
-  include alfred
-  include onepassword
-  include vlc
-  include adium
-  include divvy
-  include spotify
-  include astrill
-  include sublime_text_2
-
-  # OSX config
-  include osx::dock::autohide
-  include osx::dock::clear_dock
-  
-  include osx::finder::empty_trash_securely
-  include osx::finder::unhide_library
-
-  include osx::disable_app_quarantine
-  include osx::no_network_dsstores
-
-  class { 'osx::global::key_repeat_delay':
-    delay => 35
-  }
-
-  class { 'osx::global::key_repeat_rate':
-    rate => 0
-  }
 
   # command line
   include bash::completion
-
-  # development
-  include gitx::dev
 
   # common, useful packages
   package {
