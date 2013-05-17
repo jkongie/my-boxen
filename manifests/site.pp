@@ -80,6 +80,7 @@ node default {
   include skype
 
   # command line
+  include zsh
   include bash::completion
 
   # common, useful packages

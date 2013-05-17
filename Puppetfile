@@ -48,6 +48,9 @@ github "spotify",    "1.0.0"
 github "astrill",    "0.1.4", :repo => "jkongie/puppet-astrill"
 github "sublime_text_2", "1.1.0"
 
+#
+github "zsh", "1.0.0"
+
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
